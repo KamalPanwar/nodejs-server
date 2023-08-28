@@ -1,4 +1,4 @@
-# matches any files and directories with the name test
+# matches any files and directories 
 /1-node-farm/final
 /2-how-node-works/final
 /3-asyncronous-JS/final

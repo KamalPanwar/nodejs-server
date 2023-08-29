@@ -1,0 +1,12 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "learning node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
